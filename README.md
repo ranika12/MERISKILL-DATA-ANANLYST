@@ -1,0 +1,2 @@
+# MERISKILL-DATA-ANANLYST
+ task 1 sales
